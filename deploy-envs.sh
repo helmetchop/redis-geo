@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # set environment variables used in deploy.sh and AWS task-definition.json:
 export IMAGE_NAME=netcoreapps-redisgeo
 export IMAGE_VERSION=latest
